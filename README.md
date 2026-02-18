@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Tejashree 
 
-<!--
-**Tejashree-B04/Tejashree-B04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aspiring Full Stack Developer  
+ Passionate about Python Backend & Frontend Development  
+ Bengaluru, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+ I am an aspiring software developer with strong interest in backend development using Python and Django.  
+ I have completed a frontend development internship and enjoy building responsive and user-friendly web applications.
+
+---
+
+## Technical Skills
+
+### Backend
+- Python
+- Django
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- JavaScript (Practicing)
+- React js
+
+---
+
+## Internship Experience
+- Frontend Development Internship  
+- Worked on responsive UI design  
+- Built real-world web pages  
+
+---
+
+##  Currently Learning
+- Advanced Django  
+- REST APIs  
+- Improving problem-solving skills  
+
+---
+
+## Connect With Me
+LinkedIn: (www.linkedin.com/in/tejashree-b-teja-418812353/)
